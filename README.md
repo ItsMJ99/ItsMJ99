@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm MJ</h1>
 <h3 align="center">I am interested in Game Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmj99&label=Profile%20views&color=0e75b6&style=flat" alt="itsmj99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmj99&label=Profile%20views&color=0e75b6&style=flat" alt="itsmj99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmj99" alt="itsmj99" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmj99" alt="itsmj99" /></a> </p>
 
 - 🌱 I’m currently learning **Game Development using Unreal 5**
 
 - 👯 I’m looking to collaborate on **Game Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ItsMJ99?tab=projects](https://github.com/ItsMJ99?tab=projects)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ItsMJ99?tab=projects">GitHub Projects</a>
 
-- 📄 Know about my experiences [Completed my 10th from Rosary School, Completed my Diploma from B.V.J.N.I.O.T, Currently a 2nd Year Student at PICT.](Completed my 10th from Rosary School, Completed my Diploma from B.V.J.N.I.O.T, Currently a 2nd Year Student at PICT.)
+- 📄 Know about my experiences Completed my 10th from Rosary School, Completed my Diploma from B.V.J.N.I.O.T, Currently a 2nd Year Student at PICT.Completed my 10th from Rosary School, Completed my Diploma from B.V.J.N.I.O.T, Currently a 2nd Year Student at PICT.
 
 - ⚡ Fun fact **Vadapav > Burger**
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmj99&show_icons=true&locale=en" alt="itsmj99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmj99&" alt="itsmj99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmj99&" alt="itsmj99"></p>

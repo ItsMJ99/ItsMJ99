@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ItsMJ99?tab=projects">GitHub Projects</a>
 
-- 📄 Know about my experiences Completed my 10th from Rosary School, Completed my Diploma from B.V.J.N.I.O.T, Currently a 2nd Year Student at PICT.Completed my 10th from Rosary School, Completed my Diploma from B.V.J.N.I.O.T, Currently a 2nd Year Student at PICT.
+- 📄 Know about my experiences - Completed my 10th from Rosary School, 
+                                  Completed my Diploma from B.V.J.N.I.O.T, 
+                                  Currently a 2nd Year Student at PICT.
 
 - ⚡ Fun fact **Vadapav > Burger**
 

@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences - Completed my 10th from Rosary School, 
                                   Completed my Diploma from B.V.J.N.I.O.T, 
-                                  Currently a 2nd Year Student at PICT.
+                                  Currently a 3<sup>rd</sup> Year Student at PICT.
 
 - ⚡ Fun fact **Vadapav > Burger**
 

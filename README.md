@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Game Development Projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ItsMJ99?tab=projects">GitHub Projects</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ItsMJ99?tab=repositories">GitHub</a>
 
-- 📄 Know about my experiences - Completed my 10th from Rosary School, 
+- 📄 Know about my experiences - Completed my 10th from Rosary International School, 
                                   Completed my Diploma from B.V.J.N.I.O.T, 
-                                  Currently a 3<sup>rd</sup> Year Student at PICT.
+                                  Currently a 3<sup>rd</sup> Year I.T Student at PICT.
 
 - ⚡ Fun fact **Vadapav > Burger**
 

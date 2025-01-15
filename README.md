@@ -59,8 +59,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmj99&theme=radical" alt="itsmj99" />
 </p>
 
-
-<p align="center">Here's a random motivational quote for you:</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
